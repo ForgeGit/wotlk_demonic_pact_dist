@@ -83,3 +83,7 @@ In theory, procs would happen twice early on, once until 5s, then again after fl
 Thanks Stur [oreomcflurry - Pagle (US)] for the art
 
 <img src="img/art.png"/>
+
+# Other projects (?)
+
+- Other things I have done: https://github.com/ForgeGit?tab=repositories
