@@ -65,7 +65,7 @@ The reason for using two approaches at estimating the average spellpower of demo
  
 ## Tl;DR
 
-**Yes, demonic pact is higher on the first 50s of a fight. As we expected**
+**Yes, demonic pact is higher on the first 50s of a fight. As we expected.** It is nice and good to see the data directly though.
         
 
 
