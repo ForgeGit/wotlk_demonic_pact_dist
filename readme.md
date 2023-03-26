@@ -18,7 +18,8 @@ Using 335 logs randomly selected from all the logs uploaded to WCL early in the 
 3. [Comparison 50s into the pull vs rest of the fight](#comparison-50s-into-the-pull-vs-rest-of-the-fight)<br>
         3.1 [Kologarn 25m](#kologarn-25m-1)<br>
         3.2 [Algalon 25m](#algalon-25m-1)<br>
-4. [Tl;dr](#tldr)<br>
+4. [Additional Comments](#additional-comments)<br>
+5. [Tl;dr](#tldr)<br>
 
 ## Data Selection
 
@@ -62,6 +63,15 @@ The reason for using two approaches at estimating the average spellpower of demo
 
   <img src="img/alga_plot2.png" />
  
+## Additional comments 
+*(From Louki#0810)*
+
+Algalon and Kologarn have very different "proc profiles"
+
+- Algalon: lose ~5s on prepot/tap, single target
+- Kologarn: 0 time lost and precastable, aoe damage since demo locks typically seed there (-> inc chance to proc flare/dc/cloak) 
+
+In theory, procs would happen twice early on, once until 5s, then again after flare/etc have procced. This seems to line up with the data too although its much more visible on the algalon plot
  
 ## Tl;DR
 
