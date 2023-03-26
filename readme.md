@@ -7,7 +7,7 @@
 
 ## ARE YOU SURE ABOUT THAT?
 
-Using 335 logs randomly selected from all the logs uploaded to WCL early in the 25th of March, 2023, I extracted data for 54 Algalon and 208 Kologarn kills to look into demonic pact spellpower along the encounters.
+Using 335 logs randomly selected from all the logs uploaded to WCL early in the 25th of March, 2023, I extracted data for 54 Algalon and 208 Kologarn kills to __look into demonic pact spellpower distribution along the encounter duration__.
 
 
 # Table of Contents
