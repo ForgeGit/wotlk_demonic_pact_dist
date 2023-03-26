@@ -3,22 +3,22 @@
 <img src="img/Intro.png"/>
 
 
-<img src="img/are-you-sure-about.png"/>
+<img src="img/are-you-sure.png"/>
+
 ## ARE YOU SURE ABOUT THAT?
 
 Using 335 logs randomly selected from all the logs uploaded to WCL early in the 25th of March, 2023, I extracted data for 54 Algalon and 208 Kologarn kills to look into demonic pact spellpower along the encounters.
-
 
 
 # Table of Contents
 1. [Data Selection](#data-selection) <br>
 2. [Overall distribution](#overall-distribution)<br>
         2.1 [Kologarn 25m](#kologarn-25m)<br>
-        3.2 [Algalon 25m](#algalon-25m)<br>
-2. [Comparison 50s into the pull vs rest of the fight](#overall-distribution)<br>
-        2.1 [Kologarn 25m](#kologarn-25m)<br>
-        3.2 [Algalon 25m](#algalon-25m)<br>
-        
+        2.2 [Algalon 25m](#algalon-25m)<br>
+3. [Comparison 50s into the pull vs rest of the fight](#comparison-50s-into-the-pull-vs-rest-of-the-fight)<br>
+        3.1 [Kologarn 25m](#kologarn-25m-1)<br>
+        3.2 [Algalon 25m](#algalon-25m-1)<br>
+4. [Tl;dr](#tldr)<br>
 
 ## Data Selection
 
@@ -62,5 +62,10 @@ The reason for using two approaches at estimating the average spellpower of demo
 
   <img src="img/alga_plot2.png" />
  
+ 
+## Tl;DR
+
+**Yes, demonic pact is higher on the first 50s of a fight. As we expected**
+        
 
 
