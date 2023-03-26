@@ -16,7 +16,7 @@ On average, the Kologarn kills lasted 112s [SD: 22] and the Algalon kills lasted
         2.1 [Kologarn 25m](#hardmode-classification-)<br>
         3.2 [Algalon 25m](#limitations-)<br>
         
-        
+       ![](https://github.com/ForgeGit/wotlk_demonic_pact_dist/tree/main/img/are-you-sure-about-that.gif)
 ## Overall distribution
 
 ### Kologarn 25m
