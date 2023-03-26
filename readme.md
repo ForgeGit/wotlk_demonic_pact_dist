@@ -1,8 +1,10 @@
 # Demonic Pact Spellpower Distribution
 
 <img src="img/Intro.png"/>
-<gif src="img/are-you-sure-about.gif"/>
 
+
+<img src="img/are-you-sure-about.png"/>
+## ARE YOU SURE ABOUT THAT?
 
 Using 335 logs randomly selected from all the logs uploaded to WCL early in the 25th of March, 2023, I extracted data for 54 Algalon and 208 Kologarn kills to look into demonic pact spellpower along the encounters.
 
@@ -17,7 +19,6 @@ Using 335 logs randomly selected from all the logs uploaded to WCL early in the 
         2.1 [Kologarn 25m](#kologarn-25m)<br>
         3.2 [Algalon 25m](#algalon-25m)<br>
         
-![](https://github.com/ForgeGit/wotlk_demonic_pact_dist/blob/main/img/are-you-sure-about.gif)
 
 ## Data Selection
 
