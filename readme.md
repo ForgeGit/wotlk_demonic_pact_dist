@@ -71,7 +71,7 @@ Algalon and Kologarn have very different "proc profiles"
 - Algalon: lose ~5s on prepot/tap, single target
 - Kologarn: 0 time lost and precastable, aoe damage since demo locks typically seed there (-> inc chance to proc flare/dc/cloak) 
 
-In theory, procs would happen twice early on, once until 5s, then again after flare/etc have procced. This seems to line up with the data too although its much more visible on the algalon plot
+In theory, procs would happen twice early on, once until 5s, then again after flare/etc have procced. This seems to line up with the data too although its much more visible on the Algalon plot.
  
 ## Tl;DR
 
